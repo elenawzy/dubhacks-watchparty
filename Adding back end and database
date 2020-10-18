@@ -1,0 +1,35 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   moviesite/manage.py
+#	new file:   moviesite/movies/__init__.py
+#	new file:   moviesite/movies/admin.py
+#	new file:   moviesite/movies/apps.py
+#	new file:   moviesite/movies/migrations/0001_initial.py
+#	new file:   moviesite/movies/migrations/0002_auto_20201018_0540.py
+#	new file:   moviesite/movies/migrations/0003_auto_20201018_0541.py
+#	new file:   moviesite/movies/migrations/0004_auto_20201018_0628.py
+#	new file:   moviesite/movies/migrations/0006_auto_20201018_0648.py
+#	new file:   moviesite/movies/migrations/0007_remove_screening_timeat.py
+#	new file:   moviesite/movies/migrations/0008_auto_20201018_0652.py
+#	new file:   moviesite/movies/migrations/__init__.py
+#	new file:   moviesite/movies/models.py
+#	new file:   moviesite/movies/templates/movies/README.md
+#	new file:   moviesite/movies/templates/movies/images/castle in the sky thumbnail.jpg
+#	new file:   moviesite/movies/templates/movies/index.html
+#	new file:   moviesite/movies/templates/movies/main.css
+#	new file:   moviesite/movies/templates/movies/movies.html
+#	new file:   moviesite/movies/tests.py
+#	new file:   moviesite/movies/urls.py
+#	new file:   moviesite/movies/views.py
+#	new file:   moviesite/moviesite/__init__.py
+#	new file:   moviesite/moviesite/asgi.py
+#	new file:   moviesite/moviesite/settings.py
+#	new file:   moviesite/moviesite/urls.py
+#	new file:   moviesite/moviesite/wsgi.py
+#
