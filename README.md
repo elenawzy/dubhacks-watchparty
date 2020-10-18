@@ -14,7 +14,7 @@ The time constraint was a big challenge that we had to deal with. Because of it 
 # Accomplishments that we're proud of
 For three of us it’s our first hackathon and for one of us it’s our second. We’re really proud of being able to learn so much in only 24 hours. 
 
-# What we learned (I’ll write more to be more specific)
+# What we learned 
 Two of us learned to use GitHub and Git for the first time, one of us used Django for the first time, one of us coded in HTML and CSS for the first time, and one of us took the role of leading and teaching the team the entire web app design process even though this was their second hackathon ever. 
 
 # What's next for Popcorn Party
