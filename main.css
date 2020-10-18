@@ -1,0 +1,15 @@
+body {
+    font-family: "Helvetica Neue";
+    font-size: 16px;
+    text-align-last: center;
+}
+
+h1 {
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+}
+
+
+p {
+    padding-bottom: 2rem;
+}
