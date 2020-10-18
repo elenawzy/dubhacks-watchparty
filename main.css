@@ -5,8 +5,8 @@ html{
 body {
     font-family: "Helvetica Neue";
     font-size: 16px;
-    text-align-last: center;
     height: 100%;
+    text-align-last: center;
 }
 
 /*This is a background for the landing page*/
@@ -20,6 +20,31 @@ h1 {
     padding-bottom: 2rem;
 }
 
+h2 {
+    padding-top: 8rem;
+    padding-bottom: 2rem;
+}
+
 p {
     padding-bottom: 2rem;
+}
+
+
+.centerlize {
+    width: 25%;
+    height: 100vH;
+    background-color: black; 
+    color: white;
+}
+
+.card-body {
+    color: black;
+}
+
+.col-md-3-fir {
+    margin-top: 200px
+}
+
+.row {
+    margin-top: 80px;
 }
