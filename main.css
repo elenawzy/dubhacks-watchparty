@@ -44,3 +44,65 @@ h2 {
 nav>a {
     color: white;
 }
+
+#left {
+  width: 950px;
+  float: left;
+}
+
+#right {
+  margin-left: 950px;
+  /* Change this to whatever the width of your left column is*/
+}
+
+.container1 {
+  border: 2px solid #dark;
+  background-color: #3d808b;
+  border-radius: 9px;
+  padding-left: 10px;
+  padding-right: 5px;
+  margin-left: 20px;
+  margin-right: 6px;
+}
+
+/* Darker chat container */
+.darker {
+  border-color: #darkgrey;
+  background-color: darkseagreen;
+  margin-left: 4px;
+  margin-right: 20px;
+}
+.lefttext {
+    text-align-last: left;
+}
+
+.btn2 {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}   
+
+.comment {
+    height: 100%;
+    background: linear-gradient(90deg, #404040 75%, #483d8b 25%);
+}
+
+.bodyscreen {
+    height: 100%;
+    background: linear-gradient(90deg, #383838 74%, #483d8b 25%);
+}
+
+.tobottom {
+    position: absolute;
+    bottom: 10px
+}
+
+.totop {
+    position: absolute;
+    top: 5px;
+}
+
+.card>img{
+    max-height: 250px;
+    object-fit: cover;
+}
