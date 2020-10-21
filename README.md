@@ -1,6 +1,6 @@
 # Popcorn party
 # Inspiration
-COVID-19 has shut down many movie theaters and eliminated the real-life social aspect from watching movies. We wanted to give people not just an avenue to connect with others as they watch movies, but to ACTIVELY connect, because even before COVID-19, watching movies can be such a passive experience.  
+COVID-19 has shut down many movie theaters and eliminated the real-life social aspect from watching movies. We wanted to give people not just an avenue to connect with others as they watch movies, but to ACTIVELY connect, because even before COVID-19, watching movies can be such a passive experience. Here is our [devpost submission](https://devpost.com/software/popcorn-party)!
 
 # What it does
 It allows you to share your opinions with people in real-time as you watch movies. You can find favorite commentators and plan to join the movie events that they attend. If you’re feeling impatient, you can find an event that starts within the hour. If you want to host your own movie, you can invite family and friends to watch with you. Never sit in silence as you appreciate movies again!
